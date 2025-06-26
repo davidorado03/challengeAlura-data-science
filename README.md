@@ -12,12 +12,12 @@ El objetivo principal de este proyecto es analizar el desempeño de cuatro tiend
 
 ## Estructura del proyecto
 
-challengeAlura-data-science
-   base-de-datos-challenge1-latam
-      tienda_1.csv
-      tienda_2.csv
-      tienda_3.csv
-      tienda_4.csv
+challengeAlura-data-science/
+   base-de-datos-challenge1-latam/
+      tienda_1.csv/
+      tienda_2.csv/
+      tienda_3.csv/
+      tienda_4.csv/
    AluraStoreLatam.ipynb
 
 - La carpeta `base-de-datos-challenge1-latam` contiene los archivos CSV con los datos de cada tienda.
