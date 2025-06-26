@@ -12,9 +12,9 @@ El objetivo principal de este proyecto es analizar el desempeño de cuatro tiend
 
 ## Estructura del proyecto
 
-challengeAlura-data-science/
+challengeAlura-data-science
 │
-├── base-de-datos-challenge1-latam/
+├── base-de-datos-challenge1-latam
 │   ├── tienda\_1.csv
 │   ├── tienda\_2.csv
 │   ├── tienda\_3.csv
